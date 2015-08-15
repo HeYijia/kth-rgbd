@@ -1,0 +1,1 @@
+All the nifty things developed at KTH regarding RGB-D cameras, starting with  Kinect.
